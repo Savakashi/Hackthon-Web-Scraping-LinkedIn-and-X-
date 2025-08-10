@@ -147,4 +147,3 @@ def pw(u,e,p):
         run(playwright)
 
    
-#pw("devitolovedanny","devitolovedanny@gmail.com","Password@1234")
