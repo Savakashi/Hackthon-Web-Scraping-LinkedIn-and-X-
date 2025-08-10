@@ -165,5 +165,3 @@ def sr(username,password):
     removess()
 
 
-    #os.system("merged_chats.pdf")
-#sr("choudhary.vedant27@gmail.com","j+W+QPZpkJ7&u@9")
